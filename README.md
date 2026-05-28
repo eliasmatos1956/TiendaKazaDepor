@@ -1,4 +1,4 @@
-# TiendaKazaDepor — Sistema de Venta de Zapatillas
+# TiendaJama — Sistema de Venta de Zapatillas
 
 ## Sprint 0 Goal
 
