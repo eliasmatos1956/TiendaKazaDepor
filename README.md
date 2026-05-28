@@ -9,12 +9,12 @@ repositorio conectado a GitHub y estructura inicial del sistema de venta de zapa
 
 # Equipo
 
-| Rol                                  | Integrante           | GitHub   |
-| ----------------------------------   | -----------          | -------- |
-| Product Owner                        | Tornero Rojas        | @usuario |
-| Scrum Master/Backend Developer       | Matos Huaman Elias   | @usuario |
-| QA / DevOps                          | Rios Romero Dayana   | @usuario |
-| Frontend Developer                   | Flores Lavado Nicole | @usuario |
+| Rol                                  | Integrante           | GitHub          |
+| ----------------------------------   | -----------          | --------------- |
+| Product Owner                        | Tornero Rojas        | @RoyTorneror    |
+| Scrum Master/Backend Developer       | Matos Huaman Elias   | @eliasmatos1956 |
+| QA / DevOps                          | Rios Romero Dayana   | @drios9008-beep |
+| Frontend Developer                   | Flores Lavado Nicole | @nicole9xd      |
 
 
 ---
